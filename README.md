@@ -1,4 +1,4 @@
-# LinkedToEpstein
+![LinkedToEpstein](assets/logo.png)
 
 Search the publicly released Epstein court documents for mentions of your LinkedIn connections.
 
@@ -64,7 +64,7 @@ python linked_to_epstein.py --contacts ~/Downloads/Connections.csv --min-mention
 
 The script generates an HTML report (`epstein_mentions_report.html` by default) that you can open in any web browser.
 
-![A screenshot of the HTML report.](screenshot.png)
+![A screenshot of the HTML report.](assets/screenshot.png)
 
 The report contains:
 
